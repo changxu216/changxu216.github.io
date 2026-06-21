@@ -26,9 +26,9 @@ author:
   avatar           : "Chang_In_Lab.png"
   name             : "Chang Xu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Physics"
+  bio              : "PhD Candidate @ HKUST Physics"
   location         : "Clear Water Bay, Hong Kong SAR"
-  employer         : "HKUST"
+  employer         : 
   uri              : # URL
   email            : "chang.xu@connect.ust.hk" 
 

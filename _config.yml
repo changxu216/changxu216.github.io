@@ -23,7 +23,7 @@ repository               : "changxu216/changxu216.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Chang_In_Lab.png"
+  avatar           : "Chang_In_Lab.png"
   name             : "Chang Xu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ HKUST Physics"

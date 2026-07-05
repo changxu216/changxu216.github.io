@@ -33,10 +33,12 @@ I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.
 
 During my PhD, I am working on designing soft composite solids with nonlinear mechanics using granular physics.
 
-##Contact
-Office 4142, Main Academic Building
-The Hong Kong University of Science and Technology
+Contact:
+
+Office 4142, Academic Building, HKUST
+
 Clear Water Bay, Kowloon, Hong Kong SAR
+
 Email: chang.xu@connect.ust.hk
 
 

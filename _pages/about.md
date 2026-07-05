@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
+# <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
@@ -34,4 +34,5 @@ During my PhD, I am working on designing nonlinear mechanics in soft composites 
 
 Office 4142, Academic Building, HKUST    
 Clear Water Bay, Kowloon, Hong Kong SAR     
-Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk) 
+Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk)  
+

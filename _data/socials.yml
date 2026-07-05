@@ -4,9 +4,9 @@
 # cv_pdf: # path to your CV PDF file
 email: changxu216@gmail.com # your email address
 orcid_id: 0000-0002-4543-1475
-research_gate_profile: https://www.researchgate.net/profile/Chang_Xu92?ev=hdr_xprf
+research_gate_profile: Chang_Xu92
 # inspirehep_id:  # Inspire HEP author ID
-linkedin_username: https://www.linkedin.com/in/chang-xu-678803218/
+linkedin_username: chang-xu-678803218
 # rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: uxWuPqYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)

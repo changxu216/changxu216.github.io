@@ -35,10 +35,8 @@ During my PhD, I am working on designing soft composite solids with nonlinear me
 
 **Contact**
 
-Office 4142, Academic Building, HKUST 
-
-Clear Water Bay, Kowloon, Hong Kong SAR 
-
+Office 4142, Academic Building, HKUST    
+Clear Water Bay, Kowloon, Hong Kong SAR     
 Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk) 
 
 

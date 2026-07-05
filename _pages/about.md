@@ -9,9 +9,9 @@ profile:
   image: Chang_In_Lab.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 4142, Academic Building, HKUST</p>
-    <p>Clear Water Bay, Kowloon, Hong Kong SAR</p>
-    <p>Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk) </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,6 +33,10 @@ I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.
 
 During my PhD, I am working on designing soft composite solids with nonlinear mechanics using granular physics.
 
+**Contact**
+Office 4142, Academic Building, HKUST \ 
+Clear Water Bay, Kowloon, Hong Kong SAR \ 
+Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk) 
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

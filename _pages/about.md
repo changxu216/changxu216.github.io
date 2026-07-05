@@ -31,7 +31,7 @@ Hello! I am Chang Xu (徐畅), a PhD candidate in the Dept. of Physics at Hong K
 
 I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) (少年班) at University of Science and Technology of China (USTC).   
 
-During my PhD, I am working on designing soft composite solids with nonlinear mechanics using granular physics.
+During my PhD, I am working on designing nonlinear mechanics in soft composites using shear-jamming transition, bridging granular physics with soft material engineering to realize functionalities essential for mechano-intelligent systems.
 
 **Contact**
 

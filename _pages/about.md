@@ -26,7 +26,7 @@ latest_posts:
 
 Hello! I am Chang Xu (徐畅), a PhD candidate in the Dept. of Physics at Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Qin Xu](https://softmat-hkust.org/).
 
-I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) (少年班) at University of Science and Technology of China (USTC).   
+I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) (少年班) at University of Science and Technology of China (USTC).
 
 During my PhD, I am working on designing nonlinear mechanics in soft composites using shear-jamming transition, bridging granular physics with soft material engineering to realize functionalities essential for mechano-intelligent systems.
 
@@ -34,5 +34,4 @@ During my PhD, I am working on designing nonlinear mechanics in soft composites 
 
 Office 4142, Academic Building, HKUST    
 Clear Water Bay, Kowloon, Hong Kong SAR     
-Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk)  
-
+Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk)

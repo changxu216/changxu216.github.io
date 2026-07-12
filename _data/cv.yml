@@ -6,13 +6,11 @@ cv:
   sections:
     Education:
       - institution: The Hong Kong University of Science and Technology
-        location: Clear Water Bay, Hong Kong SAR
+        location: HK SAR
         area: Physics
         degree: PhD
         start_date: 2022-08
-        end_date: 2027-08
-        highlights:
-          - "Expected graduation: Aug. 2027"
+        end_date: present
 
       - institution: University of Science and Technology of China
         location: Hefei, China
@@ -37,20 +35,25 @@ cv:
         summary: Working with Prof. Bing-Hong Wang to investigate the asymmetric simple exclusion process on complex networks.
 
     Presentations:
-      - 'CRF Joint Meeting on Active Matter at HKUST (Hong Kong SAR, 2025-11). Contributed talk: "Non-reciprocal active solids bringing shear jamming into soft material design".'
-      - '2025 APS March Meeting (Anaheim, USA, 2025-03). Contributed talk: "Realizing mechanical non-reciprocity in soft composites through shear jamming".'
-      - '2024 USTC-HKUST Joint Workshop on Condensed Matter Physics (Chaohu, China, 2024-12). Contributed talk: "Realizing mechanical non-reciprocity in soft composites through shear jamming".'
-      - '2024 Frontiers in Non-equilibrium Physics (Kyoto, Japan, 2024-07). Flash presentation and Poster: "Designing nonlinear mechanics of soft composite solids using shear jamming".'
-      - '2023 USTC-HKUST Joint Workshop on Condensed Matter Physics (Guangzhou, China, 2023-12). Poster: "Designing nonlinear mechanics of soft composite solids using shear jamming".'
+      - bullet: CRF Joint Meeting on Active Matter at HKUST (Hong Kong SAR, 2025-11). 
+                Contributed talk "Non-reciprocal active solids bringing shear jamming into soft material design".
+      - bullet: 2025 APS March Meeting (Anaheim, USA, 2025-03). 
+                Contributed talk "Realizing mechanical non-reciprocity in soft composites through shear jamming".
+      - bullet: 2024 USTC-HKUST Joint Workshop on Condensed Matter Physics (Chaohu, China, 2024-12). 
+                Contributed talk "Realizing mechanical non-reciprocity in soft composites through shear jamming".
+      - bullet: 2024 Frontiers in Non-equilibrium Physics (Kyoto, Japan, 2024-07). 
+                Flash presentation and Poster "Designing nonlinear mechanics of soft composite solids using shear jamming".
+      - bullet: 2023 USTC-HKUST Joint Workshop on Condensed Matter Physics (Guangzhou, China, 2023-12). 
+                Poster "Designing nonlinear mechanics of soft composite solids using shear jamming".
 
     Skills:
-      - label: Design, construct and conduct mechanical experiments
+      - name: Design, construct and conduct mechanical experiments
         details: CAD; 3D printing; nano-indentation; Raspberry Pi/Arduino automation; spin coating; metal/plastic processing with milling/drilling machine; bench lathe and other machine shop tools.
-      - label: Imaging soft and complex systems using advanced techniques
+      - name: Imaging soft and complex systems using advanced techniques
         details: Traction force microscopy, confocal microscopy, interferometry, and photoelasticimetry.
-      - label: Digital image processing
+      - name: Digital image processing
         details: Object identification, tracking, and stress field reconstructions.
-      - label: Numerical simulation and modelling
+      - name: Numerical simulation and modelling
         details: Molecular Dynamics and Monte Carlo simulations.
 
     Research Interests:

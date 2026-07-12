@@ -9,7 +9,6 @@ cv:
     street: Clear Water Bay
     city: Kowloon
     region: Hong Kong SAR
-    countryCode: HK
 
   sections:
     Education:

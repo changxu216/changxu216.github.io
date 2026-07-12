@@ -62,6 +62,18 @@ cv:
       - label: Numerical simulation and modelling
         details: Molecular Dynamics and Monte Carlo simulations.
 
+     Skills:
+      - label: Design and conduct mechanical experiments
+        details: CAD, 3D printing, nano-indentation, Raspberry Pi/Arduino automation, spin coating, metal/plastic processing with milling/drilling machine, bench lathe and other machine shop tools.
+      - label: Imaging soft and complex systems using advanced techniques
+        details: Traction force microscopy, confocal microscopy, interferometry, and photoelasticimetry.
+      - label: Digital image processing
+        details: Object identification, tracking, and stress field reconstructions.
+      - label: Numerical simulation and modelling
+        details: Molecular Dynamics and Monte Carlo simulations.
+        
+               
+        
      Research Interests:
-      - label: Interests
+      - label: Design and conduct mechanical experiments
         details: Soft materials, Granular physics, Active matter, Biophysics, Biomechanics, Mechanobiology, Statistical mechanics, Nonlinear dynamics, Stochastic processes

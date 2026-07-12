@@ -33,20 +33,20 @@ cv:
         summary: Working with Prof. Bing-Hong Wang to investigate the asymmetric simple exclusion process on complex networks.
 
     Presentations:
-      - "**CRF Joint Meeting on Active Matter at HKUST** (Hong Kong SAR, 2025-11)  \nContributed talk: \"Non-reciprocal active solids bringing shear jamming into soft material design\"."
+      - "**CRF Joint Meeting on Active Matter at HKUST** (Hong Kong SAR, 2025-11)  \n Contributed talk: Non-reciprocal active solids bringing shear jamming into soft material design."
 
-      - "**2025 APS March Meeting** (Anaheim, USA, 2025-03)  \nContributed talk: \"Realizing mechanical non-reciprocity in soft composites through shear jamming\"."
+      - "**2025 APS March Meeting** (Anaheim, USA, 2025-03)  \n Contributed talk: Realizing mechanical non-reciprocity in soft composites through shear jamming."
 
-      - "**2024 USTC-HKUST Joint Workshop on Condensed Matter Physics** (Chaohu, China, 2024-12)  \nContributed talk: \"Realizing mechanical non-reciprocity in soft composites through shear jamming\"."
+      - " **2024 USTC-HKUST Joint Workshop on Condensed Matter Physics** (Chaohu, China, 2024-12)  \n Contributed talk: Realizing mechanical non-reciprocity in soft composites through shear jamming."
 
-      - "**2024 Frontiers in Non-equilibrium Physics** (Kyoto, Japan, 2024-07)  \nFlash presentation and Poster: \"Designing nonlinear mechanics of soft composite solids using shear jamming\"."
+      - "**2024 Frontiers in Non-equilibrium Physics** (Kyoto, Japan, 2024-07)  \n Flash presentation and Poster: Designing nonlinear mechanics of soft composite solids using shear jamming."
 
-      - "**2023 USTC-HKUST Joint Workshop on Condensed Matter Physics** (Guangzhou, China, 2023-12)  \nPoster: \"Designing nonlinear mechanics of soft composite solids using shear jamming\"."
+      - "**2023 USTC-HKUST Joint Workshop on Condensed Matter Physics** (Guangzhou, China, 2023-12)  \n Poster: Designing nonlinear mechanics of soft composite solids using shear jamming."
 
   
     Skills:
-      - label: Design, construct and conduct mechanical experiments
-        details: CAD; 3D printing; nano-indentation; Raspberry Pi/Arduino automation; spin coating; metal/plastic processing with milling/drilling machine; bench lathe and other machine shop tools.
+      - label: Design and conduct mechanical experiments
+        details: CAD, 3D printing, nano-indentation, Raspberry Pi/Arduino automation, spin coating, metal/plastic processing with milling/drilling machine, bench lathe and other machine shop tools.
       - label: Imaging soft and complex systems using advanced techniques
         details: Traction force microscopy, confocal microscopy, interferometry, and photoelasticimetry.
       - label: Digital image processing
@@ -55,5 +55,5 @@ cv:
         details: Molecular Dynamics and Monte Carlo simulations.
 
     Research Interests:
-      - label: Interests and conduct mechanical experiments
+      - label: Interests
         details: Soft materials, Granular physics, Active matter, Biophysics, Biomechanics, Mechanobiology, Statistical mechanics, Nonlinear dynamics, Stochastic processes

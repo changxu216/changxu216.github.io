@@ -82,7 +82,7 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
         
-   skills:
+   Skills:
         - label: Design, construct and conduct mechanical experiments.
           details: CAD; 3D printing; nano-indentation; Raspberry Pi/Arduino automation; spin coating; metal/plastic processing with milling/drilling machine; bench lathe and other machine shop tools.   
         - label: Imaging soft and complex systems using advanced techniques
@@ -92,7 +92,7 @@ cv:
         - label: Numerical simulation and modelling.
           details: Molecular Dynamics and Monte Carlo simulations.
 
-    Interests:
+    Research Interests:
       - label: 
         details: Soft materials, Granular physics, Active matter, Biophysics, Biomechanics, Mechanobiology, Nonlinear dynamics, Stochastic processes
 

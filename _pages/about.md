@@ -42,7 +42,7 @@ Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk)
 Research interests
 ------
 - Mechanics of soft materials
-- Elastocapillarity of soft surfaces
+- Elastocapillarity on soft surfaces
 - Statistical mechanics of soft composite materials
 - Active matter and biological physics
 - Nonlinear dynamics on complex networks

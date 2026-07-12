@@ -30,7 +30,7 @@ I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.
 
 During my PhD, I am working on designing nonlinear mechanics in soft composites using shear-jamming transition, bridging granular physics with soft material engineering to realize functionalities essential for mechano-intelligent systems.
 
-If you are interested in my research or have any questions, please feel free to get in touch. 
+If you are interested in my research, please feel free to get in touch. 
 
 **Contact**
 

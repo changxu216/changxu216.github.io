@@ -6,9 +6,9 @@ cv:
   image: ""
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
+    street: Clear Water Bay
+    city: Kowloon
+    region: Hong Kong SAR
     countryCode: HK
 
   sections:
@@ -16,7 +16,7 @@ cv:
       - institution: The Hong Kong University of Science and Technology
         location: Clear Water Bay, Hong Kong SAR
         area: Physics
-        studyType: PhD
+        studyType: PhD in Physics
         start_date: Aug. 2022
         end_date: Aug. 2027 (expected)
 
@@ -24,57 +24,40 @@ cv:
       - institution: University of Science and Technology of China
         location: Hefei, China
         area: Applied Physics
-        studyType: B. Sc
+        studyType: B. Sc in Applied Physics
         start_date: Aug. 2018
         end_date: Jul. 2022
 
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Department of Physics, The Hong Kong University of Science and Technology
+        position: PhD Student
+        location: HKUST, HK SAR
+        start_date: Aug. 2022
+        end_date: Present
+        summary: Working with Prof. Qin Xu to design the nonlinear mechanics of soft composite solids.
         highlights:
           - Relativity
           - Description 2.
 
       - company: Department of Modern Physics, University of Science and Technology of China
-        position: Student Research Assistant With Prof. Bing-Hong Wang
+        position: Student Research Assistant 
         location: USTC, China
         start_date: Jun. 2020
         end_date: Jul. 2022
+        summary: Worked with Prof. Bing-Hong Wang to investigate dynamic processes in complex networks.
         highlights:
           - Worked on the nonlinear dynamical processes of complex networks related to system phase transition and other
           - Carried out the simulation and analysis of network dynamics patterns and network phase diagrams.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Awards:
-      - title: Nobel Prize in Physics
+    Presentations:
+      - title: CRF Joint Meeting on Active Matter at HKUST
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - Hong Kong, China 
+        date: 2025-11-01
+        awarder: Contributed talk,
+        summary: Title: “Non-reciprocal active solids: bringing shear jamming into soft material design”
 
       - title: Max Planck Medal
         authors:
@@ -83,26 +66,7 @@ cv:
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-
-
+  
     Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
@@ -111,3 +75,11 @@ cv:
           - Quantum Cryptography
         start_date: 2018-01-01
         end_date: 2018-01-01
+
+
+    Interests:
+      - name: 
+        icon: fa-solid fa-tag
+        keywords: "Soft materials, Granular physics, Active matter, Biophysics, Biomechanics, Mechanobiology, Nonlinear dynamics, Stochastic processes"
+
+

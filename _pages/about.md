@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Chang_pre.png
+  image: Chang_In_Lab.png
   image_circular: false # crops the image to make it circular
   more_info: >
 

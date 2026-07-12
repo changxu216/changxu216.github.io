@@ -39,7 +39,7 @@ Clear Water Bay, Kowloon, Hong Kong SAR
 Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk)
 
 
-Research interests
+research interests
 ------
 - Mechanics of soft materials
 - Elastocapillarity on soft surfaces

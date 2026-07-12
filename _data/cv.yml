@@ -52,17 +52,28 @@ cv:
 
 
     Presentations:
-      - reversed_number: CRF Joint Meeting on Active Matter at HKUST (HK SAR, 2025-11)
-        summary: Contributed talk: “Non-reciprocal active solids: bringing shear jamming into soft material design”.
-      - reversed_number: 2025 APS March Meeting (Anaheim, USA, 2025-03)
-        summary: Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
-      - reversed_number: 2024 USTC-HKUST Joint Workshop on Condensed Matter Physics, (Chaohu, China, 2024-12)
-        summary: Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
-      - reversed_number: 2024 Frontiers in Non-equilibrium Physics, (Kyoto, Japan, 2024-07)
-        summary: Flash presentation and Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
-      - reversed_number: 2023 USTC-HKUST Joint Workshop on Condensed Matter Physics, (Guangzhou, China, 2023-11)
-        summary: Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
-        
+      - reversed_number: >
+          CRF Joint Meeting on Active Matter at HKUST, (Hong Kong SAR, 2025-11)
+        summary:
+            - Contributed talk “Non-reciprocal active solids bringing shear
+            jamming into soft material design”.    
+      - reversed_number: >
+          2025 APS March Meeting, (Anaheim, USA, 2025-03)
+        summary:
+         - Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
+     - reversed_number: >
+          2024 USTC-HKUST Joint Workshop on Condensed Matter Physics, (Chaohu, China, 2024-12)
+        summary:
+         - Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
+    - reversed_number: >
+          2024 Frontiers in Non-equilibrium Physics, (Kyoto, Japan, 2024-07)
+      summary:
+         - Flash presentation and Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
+    - reversed_number: >
+          2023 USTC-HKUST Joint Workshop on Condensed Matter Physics, (Guangzhou, China, 2024-12)
+      summary:
+         - Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
+              
     Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.

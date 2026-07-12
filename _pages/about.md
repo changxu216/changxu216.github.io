@@ -30,8 +30,19 @@ I obtained my B.Sc. in Applied Physics from [School of Gifted Young](https://en.
 
 During my PhD, I am working on designing nonlinear mechanics in soft composites using shear-jamming transition, bridging granular physics with soft material engineering to realize functionalities essential for mechano-intelligent systems.
 
+If you are interested in my research or have any questions, please feel free to get in touch. 
+
 **Contact**
 
 Office 4142, Academic Building, HKUST    
 Clear Water Bay, Kowloon, Hong Kong SAR     
 Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk)
+
+
+Research interests
+------
+- Mechanics of soft materials
+- Elastocapillarity of soft surfaces
+- Statistical mechanics of soft composite materials
+- Active matter and biological physics
+- Nonlinear dynamics on complex networks

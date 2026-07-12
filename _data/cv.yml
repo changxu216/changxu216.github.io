@@ -36,9 +36,7 @@ cv:
         start_date: Aug. 2022
         end_date: Present
         summary: Working with Prof. Qin Xu to design the nonlinear mechanics of soft composite solids.
-        highlights:
-          - Relativity
-          - Description 2.
+
 
       - company: Department of Modern Physics, University of Science and Technology of China
         position: Student Research Assistant 
@@ -46,42 +44,25 @@ cv:
         start_date: Jun. 2020
         end_date: Jul. 2022
         summary: Worked with Prof. Bing-Hong Wang to investigate dynamic processes in complex networks.
-        highlights:
-          - Worked on the nonlinear dynamical processes of complex networks related to system phase transition and other
-          - Carried out the simulation and analysis of network dynamics patterns and network phase diagrams.
 
 
     Presentations:
       - reversed_number: >
           CRF Joint Meeting on Active Matter at HKUST, (Hong Kong SAR, 2025-11)
-        summary:
-            - Contributed talk “Non-reciprocal active solids bringing shear jamming into soft material design”.    
+              Contributed talk “Non-reciprocal active solids bringing shear jamming into soft material design”.    
       - reversed_number: >
           2025 APS March Meeting, (Anaheim, USA, 2025-03)
-        summary:
-         - Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
+               Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
      - reversed_number: >
           2024 USTC-HKUST Joint Workshop on Condensed Matter Physics, (Chaohu, China, 2024-12)
-        summary:
-         - Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
+               Contributed talk: “Realizing mechanical non-reciprocity in soft composites through shear jamming”.
     - reversed_number: >
           2024 Frontiers in Non-equilibrium Physics, (Kyoto, Japan, 2024-07)
-      summary:
-         - Flash presentation and Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
+               Flash presentation and Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
     - reversed_number: >
           2023 USTC-HKUST Joint Workshop on Condensed Matter Physics, (Guangzhou, China, 2024-12)
-      summary:
-         - Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
+               Poster: “Designing nonlinear mechanics of soft composite solids using shear jamming”.
               
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-        
    Skills:
         - label: Design, construct and conduct mechanical experiments.
           details: CAD; 3D printing; nano-indentation; Raspberry Pi/Arduino automation; spin coating; metal/plastic processing with milling/drilling machine; bench lathe and other machine shop tools.   

@@ -7,6 +7,7 @@ cv:
     Education:
       - institution: The Hong Kong University of Science and Technology
         degree: PhD in Physics
+        area: Department of Physics
         date:
         start_date: 2022-08
         end_date: present
@@ -14,6 +15,7 @@ cv:
         
       - institution: University of Science and Technology of China
         degree: BSc in Applied Physics
+        area: School of the Gifted Young
         date:
         start_date: 2018-08
         end_date: 2022-07

@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -46,6 +46,3 @@ Research interests
 - Statistical mechanics of soft composite materials
 - Active matter and biological physics
 - Nonlinear dynamics on complex networks
-
-## <a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a>
-{% include selected_papers.html %}

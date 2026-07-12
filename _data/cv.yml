@@ -6,16 +6,19 @@ cv:
   sections:
     Education:
       - institution: The Hong Kong University of Science and Technology
-        location: HK SAR
         degree: PhD in Physics
+        date:
         start_date: 2022-08
         end_date: present
-
+        location: Hong Kong SAR
+        
       - institution: University of Science and Technology of China
-        location: Hefei, China
         degree: BSc in Applied Physics
+        date:
         start_date: 2018-08
         end_date: 2022-07
+        location: Hefei, China
+
 
     Experience:
       - company: Department of Physics, The Hong Kong University of Science and Technology

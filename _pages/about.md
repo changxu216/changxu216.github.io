@@ -43,6 +43,6 @@ Research interests
 ------
 - Mechanics of soft materials
 - Elastocapillarity on soft surfaces
-- Statistical mechanics of soft composite materials
 - Active matter and biological physics
+- Statistical mechanics of soft composite materials
 - Nonlinear dynamics on complex networks

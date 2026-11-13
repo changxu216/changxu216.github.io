@@ -38,7 +38,6 @@ Office 4142, Academic Building, HKUST
 Clear Water Bay, Kowloon, Hong Kong SAR     
 Email: [changxu216@gmail.com](mailto:changxu216@gmail.com) 
 
-
 Research interests
 ------
 - Mechanics of soft materials

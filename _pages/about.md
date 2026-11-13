@@ -36,8 +36,7 @@ If you are interested in my research, please feel free to get in touch. :)
 
 Office 4142, Academic Building, HKUST    
 Clear Water Bay, Kowloon, Hong Kong SAR     
-Email: [chang.xu@connect.ust.hk](mailto:chang.xu@connect.ust.hk) 
-Gmail: [changxu216@gmail.com](mailto:changxu216@gmail.com) 
+Email: [changxu216@gmail.com](mailto:changxu216@gmail.com) 
 
 
 Research interests
